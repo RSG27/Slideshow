@@ -1,6 +1,6 @@
 # Projeto Slider
 
-Projeto realizado predominantemente em Javascript a fim de aplicar os conceitos de diversos tópicos da linguagem, a exemplo das funções, dos métodos querySelector e querySelectorAll, das propriedades .length, 
+Projeto realizado predominantemente em Javascript a fim de aplicar os diversos conceitos da linguagem, a exemplo das funções, dos métodos querySelector e querySelectorAll, das propriedades .length, 
 .clientHeight e .clientWidth.
 
 # Tecnologias Utilizadas
@@ -19,4 +19,6 @@ Além disso, tivemos as funções goPrev() que calcula a volta de um slide para 
 
 Por último, temos setInterval, função temporizadora que executa goNext() após 3s.
 
+# Acesse aqui
 
+[Clique aqui](https://slideshow-cdddc2.netlify.app/)
